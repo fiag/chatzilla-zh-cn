@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title     "ChatZilla &#39318;&#36873;&#39033;">
+<!ENTITY pref-irc.open.desc      "ChatZilla &#30340;&#39318;&#36873;&#39033;&#23545;&#35805;&#26694;&#22823;&#23567;&#36229;&#20986;&#20102;&#35813;&#36873;&#39033;&#31383;&#21475;&#30340;&#22823;&#23567;&#65292;&#22240;&#27492;&#24744;&#21487;&#20197;&#20174;&#36825;&#37324;&#25171;&#24320;&#23427;&#30340;&#39318;&#36873;&#39033;&#31383;&#21475;&#12290;">
+<!ENTITY pref-irc.open.label     "&#25171;&#24320; ChatZilla &#39318;&#36873;&#39033;">
+<!ENTITY pref-irc.open.accesskey "O">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

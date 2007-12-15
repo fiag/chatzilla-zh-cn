@@ -1,0 +1,72 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is ChatZilla.
+   -
+   - The Initial Developer of the Original Code is James Ross.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   James Ross <silver@warwickcompsoc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY window.title  "ChatZilla &#39318;&#36873;&#39033;">
+
+<!ENTITY loading.label  "&#35831;&#31245;&#31561;&#65292;&#27491;&#22312;&#36733;&#20837;...">
+
+<!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
+<!ENTITY homepage.label "ChatZilla &#20027;&#39029;">
+
+<!ENTITY object.add.label       "&#28155;&#21152;...">
+<!ENTITY object.add.hint        "&#28155;&#21152;&#26032;&#30340;&#32593;&#32476;&#12289;&#39057;&#36947;&#25110;&#29992;&#25143;&#24182;&#21551;&#21160;&#20854;&#39318;&#36873;&#39033;&#35774;&#32622;">
+<!ENTITY object.add.accesskey   "A">
+
+<!ENTITY object.del.label       "&#31227;&#38500;">
+<!ENTITY object.del.hint        "&#31227;&#38500;&#24403;&#21069;&#23545;&#35937;&#24182;&#28165;&#38500;&#20854;&#25152;&#26377;&#39318;&#36873;&#39033;&#35774;&#32622;">
+<!ENTITY object.del.accesskey   "R">
+
+<!ENTITY object.reset.label     "&#37325;&#32622;">
+<!ENTITY object.reset.hint      "&#37325;&#32622;&#24403;&#21069;&#23545;&#35937;&#30340;&#25152;&#26377;&#39318;&#36873;&#39033;&#35774;&#32622;&#21040;&#40664;&#35748;&#29366;&#24577;">
+<!ENTITY object.reset.accesskey "s">
+
+<!ENTITY dialog.apply   "&#24212;&#29992;">
+
+<!ENTITY network "&#32593;&#32476;">
+<!ENTITY channel "&#39057;&#36947;">
+<!ENTITY user    "&#29992;&#25143;">
+
+<!ENTITY config.add.title "&#28155;&#21152;&#39318;&#36873;&#39033;&#30340;&#23545;&#35937;">
+
+<!ENTITY config.type.label        "&#31867;&#22411;">
+<!ENTITY config.type.hint         "&#36755;&#20837;&#35201;&#20026;&#20854;&#28155;&#21152;&#39318;&#36873;&#39033;&#35774;&#32622;&#30340;&#23545;&#35937;&#31867;&#22411;">
+<!ENTITY config.type.accesskey    "T">
+<!ENTITY config.network.label     "&#32593;&#32476;&#65306;">
+<!ENTITY config.network.hint      "&#24050;&#30693;&#30340;&#32593;&#32476;&#21517;&#25110;&#26381;&#21153;&#22120;&#21517;">
+<!ENTITY config.network.accesskey "N">
+<!ENTITY config.target.label      "&#30446;&#26631;&#65306;">
+<!ENTITY config.target.hint       "&#30446;&#26631;&#39057;&#36947;&#25110;&#29992;&#25143;&#21517;">
+<!ENTITY config.target.accesskey  "g">
