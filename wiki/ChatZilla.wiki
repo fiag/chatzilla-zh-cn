@@ -1,9 +1,0 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-ChatZilla is a cross platform messaging client that combines Internet Relay Chat (IRC) with existing web standards like JavaScript, HTML, and CSS. 
-
-
-= Homepage =
-http://chatzilla.hacksrus.com/
