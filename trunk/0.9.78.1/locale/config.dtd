@@ -34,39 +34,39 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title  "ChatZilla &#39318;&#36873;&#39033;">
+<!ENTITY window.title  "ChatZilla 首选项">
 
-<!ENTITY loading.label  "&#35831;&#31245;&#31561;&#65292;&#27491;&#22312;&#36733;&#20837;...">
+<!ENTITY loading.label  "请稍等，正在载入...">
 
 <!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
-<!ENTITY homepage.label "ChatZilla &#20027;&#39029;">
+<!ENTITY homepage.label "ChatZilla 主页">
 
-<!ENTITY object.add.label       "&#28155;&#21152;...">
-<!ENTITY object.add.hint        "&#28155;&#21152;&#26032;&#30340;&#32593;&#32476;&#12289;&#39057;&#36947;&#25110;&#29992;&#25143;&#24182;&#21551;&#21160;&#20854;&#39318;&#36873;&#39033;&#35774;&#32622;">
+<!ENTITY object.add.label       "添加...">
+<!ENTITY object.add.hint        "添加新的网络、频道或用户并启动其首选项设置">
 <!ENTITY object.add.accesskey   "A">
 
-<!ENTITY object.del.label       "&#31227;&#38500;">
-<!ENTITY object.del.hint        "&#31227;&#38500;&#24403;&#21069;&#23545;&#35937;&#24182;&#28165;&#38500;&#20854;&#25152;&#26377;&#39318;&#36873;&#39033;&#35774;&#32622;">
+<!ENTITY object.del.label       "移除">
+<!ENTITY object.del.hint        "移除当前对象并清除其所有首选项设置">
 <!ENTITY object.del.accesskey   "R">
 
-<!ENTITY object.reset.label     "&#37325;&#32622;">
-<!ENTITY object.reset.hint      "&#37325;&#32622;&#24403;&#21069;&#23545;&#35937;&#30340;&#25152;&#26377;&#39318;&#36873;&#39033;&#35774;&#32622;&#21040;&#40664;&#35748;&#29366;&#24577;">
+<!ENTITY object.reset.label     "重置">
+<!ENTITY object.reset.hint      "重置当前对象的所有首选项设置到默认状态">
 <!ENTITY object.reset.accesskey "s">
 
-<!ENTITY dialog.apply   "&#24212;&#29992;">
+<!ENTITY dialog.apply   "应用">
 
-<!ENTITY network "&#32593;&#32476;">
-<!ENTITY channel "&#39057;&#36947;">
-<!ENTITY user    "&#29992;&#25143;">
+<!ENTITY network "网络">
+<!ENTITY channel "频道">
+<!ENTITY user    "用户">
 
-<!ENTITY config.add.title "&#28155;&#21152;&#39318;&#36873;&#39033;&#30340;&#23545;&#35937;">
+<!ENTITY config.add.title "添加首选项的对象">
 
-<!ENTITY config.type.label        "&#31867;&#22411;">
-<!ENTITY config.type.hint         "&#36755;&#20837;&#35201;&#20026;&#20854;&#28155;&#21152;&#39318;&#36873;&#39033;&#35774;&#32622;&#30340;&#23545;&#35937;&#31867;&#22411;">
+<!ENTITY config.type.label        "类型">
+<!ENTITY config.type.hint         "输入要为其添加首选项设置的对象类型">
 <!ENTITY config.type.accesskey    "T">
-<!ENTITY config.network.label     "&#32593;&#32476;&#65306;">
-<!ENTITY config.network.hint      "&#24050;&#30693;&#30340;&#32593;&#32476;&#21517;&#25110;&#26381;&#21153;&#22120;&#21517;">
+<!ENTITY config.network.label     "网络：">
+<!ENTITY config.network.hint      "已知的网络名或服务器名">
 <!ENTITY config.network.accesskey "N">
-<!ENTITY config.target.label      "&#30446;&#26631;&#65306;">
-<!ENTITY config.target.hint       "&#30446;&#26631;&#39057;&#36947;&#25110;&#29992;&#25143;&#21517;">
+<!ENTITY config.target.label      "目标：">
+<!ENTITY config.target.hint       "目标频道或用户名">
 <!ENTITY config.target.accesskey  "g">

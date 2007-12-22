@@ -9,8 +9,8 @@
 
   <!-- locale information -->
   <RDF:Description about="urn:mozilla:locale:zh-CN"
-        chrome:displayName="English(US)"
-        chrome:author="mozilla.org"
+        chrome:displayName="Simplified Chinese"
+        chrome:author="firefox.net.cn"
         chrome:name="zh-CN"
         chrome:previewURL="http://www.mozilla.org/locales/zh-CN.gif">
     <chrome:packages>

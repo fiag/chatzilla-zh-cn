@@ -1,15 +1,15 @@
-<!ENTITY Menubar.tooltip    "&#20027;&#33756;&#21333;&#26639;">
-<!ENTITY Toolbar.tooltip    "&#20027;&#24037;&#20855;&#26639;">
+<!ENTITY Menubar.tooltip    "主菜单栏">
+<!ENTITY Toolbar.tooltip    "主工具栏">
 
 
-<!ENTITY multiline-expand.tooltip   "&#20999;&#25442;&#21040;&#22810;&#34892;&#36755;&#20837;&#27169;&#24335; (Ctrl+Up)">
-<!ENTITY multiline-contract.tooltip "&#20999;&#25442;&#21040;&#21333;&#34892;&#36755;&#20837;&#27169;&#24335; (Ctrl+Down)">
-<!ENTITY multiline-send.tooltip     "&#21457;&#36865;&#24403;&#21069;&#25991;&#26412; (Ctrl+Enter)">
-<!ENTITY server-nick.tooltip        "&#26356;&#25442;&#26165;&#31216;&#25110;&#35774;&#32622;&#24403;&#21069;&#29366;&#24577;&#20026;&#31163;&#24320;&#12290;&#25353; Escape &#21487;&#20197;&#23558;&#20809;&#26631;&#23450;&#20301;&#21040;&#36755;&#20837;&#26694;&#12290;">
+<!ENTITY multiline-expand.tooltip   "切换到多行输入模式 (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "切换到单行输入模式 (Ctrl+Down)">
+<!ENTITY multiline-send.tooltip     "发送当前文本 (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "更换昵称或设置当前状态为离开。按 Escape 可以将光标定位到输入框。">
 
-<!ENTITY Underline.label             "&#19979;&#21010;&#32447;">
-<!ENTITY Bold.label                  "&#31895;&#20307;">
-<!ENTITY Reverse.label               "&#21453;&#30333;&#26174;&#31034;">
-<!ENTITY Normal.label                "&#27491;&#24120;">
-<!ENTITY Color.label                 "&#39068;&#33394;">
-<!ENTITY ForeBack.label              "xx=&#21521;&#21069; yy=&#21521;&#21518;">
+<!ENTITY Underline.label             "下划线">
+<!ENTITY Bold.label                  "粗体">
+<!ENTITY Reverse.label               "反白显示">
+<!ENTITY Normal.label                "正常">
+<!ENTITY Color.label                 "颜色">
+<!ENTITY ForeBack.label              "xx=向前 yy=向后">
