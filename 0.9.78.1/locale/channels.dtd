@@ -39,7 +39,7 @@
 <!ENTITY qsearch.label     "快速查找：">
 <!ENTITY qsearch.accesskey "S">
 
-<!ENTITY topics.label     "查找频道名的同时显示其话题">
+<!ENTITY topics.label     "查找话题以及频道名">
 <!ENTITY topics.accesskey "t">
 
 <!ENTITY join.label     "加入">
