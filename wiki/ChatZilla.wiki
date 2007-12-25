@@ -1,4 +1,4 @@
-#labels Featured,Phase-Design
+#labels Phase-Design
 = Introduction =
 
 ChatZilla is a cross platform messaging client that combines Internet Relay Chat (IRC) with existing web standards like JavaScript, HTML, and CSS. If you don't know any of this stuff don't worry, you don't have to. ChatZilla is easy to use. For more information, please read its [http://chatzilla.hacksrus.com/faq FAQ].
