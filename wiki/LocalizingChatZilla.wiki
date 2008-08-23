@@ -1,4 +1,4 @@
-#ChatZilla 汉化流程
+# ChatZilla 汉化流程
 
 = 简介 =
 
