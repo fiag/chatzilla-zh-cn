@@ -1,15 +1,15 @@
-<!ENTITY Menubar.tooltip    "Main Menu">
-<!ENTITY Toolbar.tooltip    "Main Toolbar">
+<!ENTITY Menubar.tooltip    "主菜单">
+<!ENTITY Toolbar.tooltip    "主工具栏">
 
 
-<!ENTITY multiline-expand.tooltip   "Switch to multi-line input (Ctrl+Up)">
-<!ENTITY multiline-contract.tooltip "Switch to single-line input (Ctrl+Down)">
-<!ENTITY multiline-send.tooltip     "Send this text (Ctrl+Enter)">
-<!ENTITY server-nick.tooltip        "Change nickname or set away state. To focus the input box, press Escape.">
+<!ENTITY multiline-expand.tooltip   "切换到多行输入模式 (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "切换到单行输入模式 (Ctrl+Down)">
+<!ENTITY multiline-send.tooltip     "发送该文本 (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "更改昵称或设置状态为离开。要定位到输入框，请按 Escape 键。">
 
-<!ENTITY Underline.label             "Underline">
-<!ENTITY Bold.label                  "Bold">
-<!ENTITY Reverse.label               "Reverse video">
-<!ENTITY Normal.label                "Normal">
-<!ENTITY Color.label                 "Colour">
-<!ENTITY ForeBack.label              "xx=Fore yy=Back">
+<!ENTITY Underline.label             "下划线">
+<!ENTITY Bold.label                  "加粗">
+<!ENTITY Reverse.label               "相反的视频">
+<!ENTITY Normal.label                "正常">
+<!ENTITY Color.label                 "颜色">
+<!ENTITY ForeBack.label              "xx=向前 yy=向后">
