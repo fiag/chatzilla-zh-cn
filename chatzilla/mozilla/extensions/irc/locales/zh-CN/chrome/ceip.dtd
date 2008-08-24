@@ -1,19 +1,19 @@
-<!ENTITY window.title  "ChatZilla Customer Experience Improvement Program">
+<!ENTITY window.title  "ChatZilla 客户体验改进程序">
 <!ENTITY window.size   "width: 42em;">
 
-<!ENTITY intro.label "The ChatZilla Customer Experience Improvement Program collects information about how you use ChatZilla, without interrupting you. This helps the developers identify which ChatZilla features to improve. No information is used to identify or contact you.">
+<!ENTITY intro.label "ChatZilla 客户体验改进程序在不干涉您的情况下收集您使用 ChatZilla 的有关信息，用于帮助开发人员鉴别哪些 ChatZilla 的特性需要进行改进。我们并不将收集到的信息用来识别您的身份或联系您。">
 
-<!ENTITY groupSend.label        "Send the following data:">
-<!ENTITY sendClient.label       "When ChatZilla is opened and closed">
+<!ENTITY groupSend.label        "发送下列数据：">
+<!ENTITY sendClient.label       "在 ChatZilla 打开和关闭时">
 <!ENTITY sendClient.accesskey   "o">
-<!ENTITY sendCommand.label      "Commands, menus and dialogs that are used">
+<!ENTITY sendCommand.label      "使用中的命令、菜单和对话框">
 <!ENTITY sendCommand.accesskey  "C">
-<!ENTITY sendID.label           "Your unique ID:">
-<!ENTITY sendIDSrc.label        "(randomly generated)">
+<!ENTITY sendID.label           "您的惟一 ID：">
+<!ENTITY sendIDSrc.label        "（随机生成）">
 
-<!ENTITY groupNotSent.label     "Data which is never sent:">
-<!ENTITY notsentNickname.label  "Your nickname">
-<!ENTITY notsentMessages.label  "Message content, including actions and notices">
-<!ENTITY notsentArguments.label "Arguments and data given to all commands, menus and dialogs">
-<!ENTITY notsentURLs.label      "Names and URLs of networks, servers, channels and users">
-<!ENTITY notsentFiles.label     "Names and contents of sent and received files">
+<!ENTITY groupNotSent.label     "永不发送的数据：">
+<!ENTITY notsentNickname.label  "您的昵称">
+<!ENTITY notsentMessages.label  "包括动作和通知在内的消息内容">
+<!ENTITY notsentArguments.label "用于所有命令、菜单、对话框的条款和数据">
+<!ENTITY notsentURLs.label      "网络、服务器、频道和用户的名称和 URL">
+<!ENTITY notsentFiles.label     "已发送和已接收文件的名称和内容">
