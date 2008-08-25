@@ -1,0 +1,19 @@
+<!ENTITY window.title  "ChatZilla 客户体验改进程序">
+<!ENTITY window.size   "width: 42em;">
+
+<!ENTITY intro.label "ChatZilla 客户体验改进程序在不干扰您的情况下收集您使用 ChatZilla 的相关信息。这些信息用于帮助开发人员找出 ChatZilla 需要改进的特性。收集的信息并不会用于识别您的身份或联系您。">
+
+<!ENTITY groupSend.label        "发送以下数据：">
+<!ENTITY sendClient.label       "当 ChatZilla 开启和关闭时发送">
+<!ENTITY sendClient.accesskey   "o">
+<!ENTITY sendCommand.label      "用过的命令、菜单和对话框">
+<!ENTITY sendCommand.accesskey  "C">
+<!ENTITY sendID.label           "您的唯一 ID：">
+<!ENTITY sendIDSrc.label        "（随机生成）">
+
+<!ENTITY groupNotSent.label     "不允许发送的数据：">
+<!ENTITY notsentNickname.label  "您的昵称">
+<!ENTITY notsentMessages.label  "包括动作和通知在内的消息内容">
+<!ENTITY notsentArguments.label "所有命令、菜单和对话框的参数与数据">
+<!ENTITY notsentURLs.label      "网络、服务器、频道和用户的名称与 URL">
+<!ENTITY notsentFiles.label     "发送文件和接收文件的名称与内容">
