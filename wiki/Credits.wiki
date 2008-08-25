@@ -1,4 +1,3 @@
-#labels Featured
 = Contributors =
  * fang5566
  * fiag
@@ -6,6 +5,7 @@
 = Translators =
  * ccbbs
  * dangerboy_dx
+ * desatan
  * Moses
  * smoke
  * solasoca
