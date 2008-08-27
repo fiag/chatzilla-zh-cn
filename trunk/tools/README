@@ -1,0 +1,4 @@
+使用 makelocalexpi.sh 前需要先设置好 AB_CD locale 代码
+touch 一个空的 define.inc
+
+然后用bash调用 makelocalexpi.sh
